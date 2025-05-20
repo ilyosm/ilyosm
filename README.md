@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ilyazbek Mamadaliev
-💻 Aspiring Cybersecurity Analyst | Sophomore at the University of Mississippi <br> 
-🔍 Passionate about cyber security , software engineering , and web development
+💻  Sophomore at the University of Mississippi <br> 
+🔍 Passionate about  software engineering , and web development
 
 # Skills
 
